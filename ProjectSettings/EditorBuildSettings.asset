@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/carselect.unity
     guid: 77fe36638dd0a8a4a85afbd4b699a835
+  - enabled: 1
+    path: Assets/Scenes/Multigame.unity
+    guid: b66c9cdd54476b943a3080318f7e9253
   m_configObjects: {}
